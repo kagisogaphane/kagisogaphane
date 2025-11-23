@@ -1,4 +1,4 @@
-#k Kagiso Aphane
+# Kagiso Aphane
 
 # 🌐 Front-End Development
 - **HTML5**: Structuring modern, semantic, and accessible web applications with clean markup.  
