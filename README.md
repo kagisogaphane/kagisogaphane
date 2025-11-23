@@ -14,6 +14,7 @@
 - **Go**: Delivering high-performance, concurrent, and scalable back-end services with Go’s efficient concurrency model.  
 
 # 🛠 Tools & Practices
+- **Maven & Gradle**: Build tools for JVM-based systems.
 - **Git & GitHub**: Managing version control, enabling collaboration, and maintaining clean project workflows.  
 - **CI/CD**: Automating builds, testing, and deployments for faster and more reliable delivery.  
 - **Postman**: Testing, debugging, and documenting APIs with ease.  
