@@ -7,7 +7,7 @@
 - **React**: Developing component-based UIs, managing state efficiently, and leveraging hooks for reusable logic.  
 
 # ⚙️ Back-End Development
-- **Java**: Creating enterprise-grade applications with strong performance, scalability, and reliability.  
+- **Java**: Creating enterprise-grade applications with strong performance, scalability, and reliability using Spring Boot, Spring Security and etc.  
 - **Kotlin**: Building modern, concise, and safe applications, especially for Android and JVM-based systems.  
 - **Python**: Developing versatile solutions, from web applications with Django,flask & fastAPI to automation and data-driven projects.  
 - **PHP**: Crafting dynamic web applications and APIs with robust server-side scripting.  
