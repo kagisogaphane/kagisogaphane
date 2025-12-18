@@ -5,8 +5,7 @@
 - **CSS3**: Designing responsive, visually appealing, and adaptive layouts with advanced styling techniques.  
 - **JavaScript**: Building dynamic, interactive, and scalable web experiences using ES6+ features.  
 
-# ⚙️ Back-End Development
-- **Java**: Creating enterprise-grade applications with strong performance, scalability, and reliability using Spring Boot, Spring Security and etc.  
+# ⚙️ Back-End Development  
 - **C#**: Developing robust applications with .NET, ASP.NET Core, and modern frameworks for scalable enterprise solutions.  
 
 # 🛠 Tools & Practices
