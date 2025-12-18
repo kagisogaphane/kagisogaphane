@@ -8,8 +8,7 @@
 # ⚙️ Back-End Development  
 - **C#**: Developing robust applications with .NET, ASP.NET Core, and modern frameworks for scalable enterprise solutions.  
 
-# 🛠 Tools & Practices
-- **Maven & Gradle**: Build tools for JVM-based systems.  
+# 🛠 Tools & Practices 
 - **Git & GitHub**: Managing version control, enabling collaboration, and maintaining clean project workflows.  
 - **CI/CD**: Automating builds, testing, and deployments for faster and more reliable delivery.  
 - **Postman**: Testing, debugging, and documenting APIs with ease.  
