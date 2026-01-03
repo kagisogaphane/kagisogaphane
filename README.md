@@ -6,7 +6,7 @@
 - **JavaScript**: Building dynamic, interactive, and scalable web experiences using ES6+ features.  
 
 # ⚙️ Back-End Development  
-- **C#**: Developing robust applications with .NET, ASP.NET Core, and modern frameworks for scalable enterprise solutions.  
+- **C++, C# & Visual Basic**: Developing robust applications with .NET, ASP.NET Core, and modern frameworks for scalable enterprise solutions.  
 
 # 🛠 Tools & Practices 
 - **Git & GitHub**: Managing version control, enabling collaboration, and maintaining clean project workflows.  
