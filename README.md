@@ -1,22 +1,35 @@
 # Kagiso Aphane
 
-#  Front-End Development
-- **HTML5**: Structuring modern, semantic, and accessible web applications with clean markup.  
-- **CSS3**: Designing responsive, visually appealing, and adaptive layouts with advanced styling techniques.  
-- **JavaScript**: Building dynamic, interactive, and scalable web experiences using ES6+ features.
-- **Angular**: Developing modular, maintainable, and high-performance single-page applications with TypeScript.
-- **Bootstrap & Tailwind CSS**: Accelerating UI development with responsive, utility-first, and component-driven design frameworks.
-- **Thymeleaf**: Integrating server-side rendering with Spring Boot for seamless, template-driven web applications.
+##  Front-End Development
+- **HTML5** 
+- **CSS3**  
+- **JavaScript (ES6+)**  
+- **TypeScript & Angular**  
+- **Bootstrap & Tailwind CSS** 
+- **Thymeleaf**
+- **Blazor** 
 
-#  Back-End Development  
-- Java & Spring Boot: Building scalable, high-performance applications with modern frameworks, microservices architecture, and enterprise-grade solutions for robust digital transformation.  
+##  Back-End Development
+- **Spring Boot with Java & Kotlin** 
+- **Django, FastAPI with Python**  
+- **ASP.NET Core with C#** 
 
-#  Tools & Practices 
-- **Git & GitHub**: Managing version control, enabling collaboration, and maintaining clean project workflows.  
-- **CI/CD**: Automating builds, testing, and deployments for faster and more reliable delivery.  
-- **Postman**: Testing, debugging, and documenting APIs with ease.  
-- **Docker**: Containerizing applications for portability, scalability, and efficient deployment.  
-- **MVC Architecture**: Structuring applications with clear separation of concerns for maintainability.  
-- **SOLID Design Principles**: Writing clean, extensible, and maintainable code following best practices in software design.  
-- **REST API**: Designing and implementing scalable, secure, and well-documented APIs for seamless communication between services.  
-- **System Design**: Architecting reliable, scalable, and efficient systems with a focus on performance, maintainability, and clarity.  
+##  Desktop Development  
+- **Java Swing & JavaFX**
+-  **WinForms & WPF(C#)** 
+
+## Data & Visualization
+- **SQL**: Querying, managing, and optimizing relational databases.  
+- **Excel**: Advanced data analysis, pivot tables, and automation with formulas.  
+- **Power BI**: Interactive dashboards and business intelligence reporting.  
+
+##  Tools & Practices
+- **Git & GitHub**: Version control, collaboration, and clean workflows.  
+- **CI/CD Pipelines**: Automating builds, testing, and deployments.  
+- **Postman**: API testing, debugging, and documentation.  
+- **Docker**: Containerization for portability, scalability, and efficient deployment.  
+- **Azure Fundamentals**: Cloud services, DevOps, and scalable infrastructure.  
+- **MVC Architecture**: Clear separation of concerns for maintainability.  
+- **SOLID Principles**: Writing clean, extensible, and maintainable code.  
+- **REST API Design**: Secure, scalable, and well-documented service communication.  
+- **System Design**: Architecting reliable, scalable, and efficient solutions.  
