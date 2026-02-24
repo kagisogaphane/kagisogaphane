@@ -7,12 +7,11 @@
 - **TypeScript & Angular**  
 - **Bootstrap & Tailwind CSS** 
 - **Thymeleaf**
-- **Blazor** 
 
 ##  Back-End Development
 - **Spring Boot with Java & Kotlin** 
 - **Django, FastAPI with Python**  
-- **ASP.NET Core with C#** 
+- **PHP** 
 
 ##  Desktop Development  
 - **Java Swing & JavaFX**
