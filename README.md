@@ -6,15 +6,13 @@
 - **JavaScript (ES6+)**  
 - **TypeScript & Angular**  
 - **Bootstrap & Tailwind CSS** 
-- **Thymeleaf**
 
 ##  Back-End Development
-- **Spring Boot with Java & Kotlin** 
+- **ASP.NET Core** 
 - **Django, FastAPI with Python**  
 - **PHP** 
 
 ##  Desktop Development  
-- **Java Swing & JavaFX**
 -  **WinForms & WPF(C#)** 
 
 ## Data & Visualization
