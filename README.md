@@ -1,5 +1,5 @@
 # Kagiso Aphane
-### Software Developer · Aspiring DevSecOps Engineer · Zetes Goods ID
+### Software Developer
 
 ---
 
