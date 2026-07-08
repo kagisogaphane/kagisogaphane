@@ -29,7 +29,7 @@
 - **TypeScript / JavaScript** 
 - **SQL**
 - **PHP** 
-- **YAML** 
+
 
 ---
 
@@ -59,8 +59,6 @@
 
 ## DevOps & Infrastructure
 - **Docker** 
-- **Kubernetes (K8s)**
-- **Terraform** 
 - **Azure DevOps Pipelines** 
 - **GitHub Actions**
 - **Git & GitHub** 
